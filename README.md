@@ -55,8 +55,3 @@ This project focuses on optimizing drone delivery hub locations for Amazon Prime
 
 ## Contact
 For further inquiries or collaboration opportunities, feel free to reach out!
-
----
-
-This README provides a detailed summary of the project, highlighting the tools, methodologies, and findings. Let me know if you'd like any modifications!
-
